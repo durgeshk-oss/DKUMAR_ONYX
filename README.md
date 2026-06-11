@@ -1,4 +1,4 @@
-# DKUMAR-_ONYX# README.md
+# DKUMAR_ONYX# README.md
 
 # Project ONYX v3.0 — Enterprise GRC & Cyber Threat Topology Engine
 
