@@ -36,9 +36,3 @@ Project ONYX abstracts complexity by splitting analytical workloads across speci
 * Python 3.11+
 * Local running instance of **Ollama** (with `gemma2:2b` pulled for the trust boundary chat engine)
 
-### 1. Clone the Repository & Environment Setup
-```bash
-git clone [https://github.com/yourdomain/project-onyx.git](https://github.com/yourdomain/project-onyx.git)
-cd project-onyx
-python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
